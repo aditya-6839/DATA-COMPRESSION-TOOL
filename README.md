@@ -24,3 +24,6 @@ Decompression – Restoring the compressed file to its original state.
 User Input Handling – Allowing users to choose between different compression methods.
 File Handling – Reading and writing compressed files effectively.
 The project is designed for students and developers interested in understanding how data compression works at a fundamental level.
+
+**OUTPUT**:
+https://github.com/user-attachments/files/18871629/Task.4.op.docx
